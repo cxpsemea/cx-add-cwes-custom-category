@@ -44,7 +44,7 @@ This script can take the following arguments/flags:
 | -dbs,--dbserver,DB_SERVER | localhost\CHECKMARX | Database Server URL | String | Yes* | |
 | -dbu,--dbuser,DB_USER | miguel | Database Username | String | Yes* | |
 | -dbp,--dbpassword,DB_PASSWORD | ****** | Database Password | Secure String | Yes* | |
-| -dbd,--dbdriver,DB_DRIVER | SQL Server | MSSQL DB Driver| String | No | SQL Server |
+| -dbd,--dbdriver,DB_DRIVER | SQL Server | MSSQL DB Driver| String | No | ODBC Driver 17 for SQL Server |
 | -cn,--categoryname,CATEGORY_NAME | CWEs | Category Name | String | No | CWEs |
 | -cgp,--categorygroupprefix,CATEGORY_GROUP_PREFIX | CWE  | Category Group Prefix | String | No | CWE  |
 | -ucn,--unknowncwename,UNKNOWN_CWE_NAME | No CWE  | Unknown CWE Name | String | No | Unknown  |
