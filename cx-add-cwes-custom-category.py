@@ -1,5 +1,3 @@
-__author__ = 'miguel.freitas@checkmarx.com'
-
 import argparse
 import logging
 import logging.config
