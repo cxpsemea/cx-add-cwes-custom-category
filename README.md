@@ -11,10 +11,10 @@ Checkmarx versions supported are:
 
 # Python Versions Supported:
 Python versions supported are:
-- 3.6
-- 3.7
-- 3.8
 - 3.9
+- 3.8
+- 3.7
+- 3.6
 
 #Install Dependencies:
 
