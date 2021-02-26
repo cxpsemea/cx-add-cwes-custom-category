@@ -3,11 +3,11 @@ This is a Python script used for adding to Checkmarx Server a custom category ba
 
 # Checkmarx Versions Supported:
 Checkmarx versions supported are:
-- 8.8
-- 8.9
-- 9.0
-- 9.2
 - 9.3
+- 9.2
+- 9.0
+- 8.9
+- 8.8
 
 # Python Versions Supported:
 Python versions supported are:
